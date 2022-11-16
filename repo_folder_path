@@ -1,0 +1,1 @@
+This folder contain all the Auguria generic modules 
